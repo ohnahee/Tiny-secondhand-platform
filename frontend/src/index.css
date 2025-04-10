@@ -1,0 +1,17 @@
+/* index.css - 스타일 초기화 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #121212; /* 어두운 배경 유지 */
+  color: white;
+}
